@@ -1,0 +1,24 @@
+#color {
+    background-color: rgb(43, 41, 41);
+}
+
+.photo {
+    position: relative;
+    width: 100%;
+    margin: 0 auto;
+}
+
+
+.photo img {
+    width: 100%;
+}
+
+#paragraf {
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+
+#menu {
+    width: 50px;
+}
